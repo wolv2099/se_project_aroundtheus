@@ -12,6 +12,7 @@ This project is made so all the elements are displayed correctly on popular scre
 
 **Github**
 [Link to Github](git@github.com:wolv2099/se_project_aroundtheus.git)
+(https://github.com/wolv2099/se_project_aroundtheus.git)
 
 **Figma**
 
