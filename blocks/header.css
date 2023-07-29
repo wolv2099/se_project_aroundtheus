@@ -27,10 +27,6 @@
     padding: 0;
   }
 
-  .header::before {
-    width: 100%;
-  }
-
   .header__logo {
     width: 126px;
     height: 24px;
